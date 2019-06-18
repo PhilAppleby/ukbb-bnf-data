@@ -2,7 +2,7 @@
 ## Purpose
 UKBB Medication codes and descriptions with BNF codes assigned where possible.  
 ## Disclaimer
-Most of the codes listed here were assigned automatically using the software in ![](https://github.com/PhilAppleby/ukbb-srmed). Some codes were assigned manually following clinician input and interent search. No guarantee of accuracy is provided and contributions / comments are welcome. 
+Most of the codes listed here were assigned automatically using the software in the repo at https://github.com/PhilAppleby/ukbb-srmed. Some codes were assigned manually following clinician input and internet search. No guarantee of accuracy is provided. Contributions / comments are welcome. 
 
 
 ## Notice
